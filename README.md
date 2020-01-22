@@ -1,2 +1,2 @@
 # IDS705-Machine Learning
-IDS705-Machine Learning
+Principles of Machine Learning
